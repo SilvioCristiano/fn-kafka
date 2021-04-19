@@ -36,7 +36,7 @@ public class CompatibleConsumer {
         String topicName = "HACK-STREAM";
 
         Properties properties = new Properties();
-        properties.put("bootstrap.servers", "cell-1.streaming.us-phoenix-1.oci.oraclecloud.com:9092");
+        properties.put("bootstrap.servers", "https://cell-1.streaming.us-phoenix-1.oci.oraclecloud.com");
         properties.put("security.protocol", "SASL_SSL");
         properties.put("sasl.mechanism", "PLAIN");
         properties.put(ConsumerConfig.GROUP_ID_CONFIG, "group-0");
