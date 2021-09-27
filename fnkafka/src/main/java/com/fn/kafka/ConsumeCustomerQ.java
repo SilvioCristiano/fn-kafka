@@ -19,11 +19,11 @@ public class ConsumeCustomerQ {
 
 	 public void consume() {
   	   
-	        String authToken = "w[_k+1Wt3-.bAjz3r65G";
+	        String authToken = "4Tn[e&h)0Jg1WoX#qX]R";
 	        String tenancyName = "oraclemetodista";
 	        String username = "silvio.da.silva@oracle.com";
-	        String compartmentId = "ocid1.streampool.oc1.sa-saopaulo-1.amaaaaaaeun4owyaq7alrbfj6mzjc7orezdpdlbwf6pki2qe4gdgbdu2jgja";
-	        String topicName = "CadastroQ";
+	        String compartmentId = "ocid1.streampool.oc1.sa-saopaulo-1.amaaaaaaeun4owya6swiqoytal5e5z6cdffpi2ulvbkbzikugyk7qajme53a";
+	        String topicName = "streaming-tst";
 
 	        Properties properties = new Properties();
 	        properties.put("bootstrap.servers", "https://cell-1.streaming.sa-saopaulo-1.oci.oraclecloud.com:9092");

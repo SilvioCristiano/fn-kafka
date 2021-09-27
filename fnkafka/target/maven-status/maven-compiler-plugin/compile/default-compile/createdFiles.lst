@@ -1,0 +1,8 @@
+com\fn\kafka\CompatibleConsumer.class
+com\fn\kafka\CompatibleProducer.class
+com\fn\kafka\Register.class
+com\fn\kafka\ConsumeCustomerQ.class
+com\fn\kafka\msg\Customer.class
+com\fn\kafka\KafkaConsumerQExample.class
+com\fn\kafka\KafkaConsumerExample.class
+com\fn\kafka\KafkaProducerExample.class
