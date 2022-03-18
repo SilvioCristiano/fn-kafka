@@ -12,8 +12,8 @@ public class CompatibleProducer {
 
     public void produce(String msg) {
 
-    	String authToken = "3M{ug44U))0I;OHGhg<:";
-        String tenancyName = "oraclemetodista";
+    	String authToken = "3M{AAAAA0I;OHGhg<:";
+        String tenancyName = "oracle";
         String username = "silvio.da.silva@oracle.com";
         String streamingId = "ocid1.streampool.oc1.sa-saopaulo-1.amaaaaaaeun4owya6swiqoytal5e5z6cdffpi2ulvbkbzikugyk7qajme53a";
         String topicName = "streaming-tst";
